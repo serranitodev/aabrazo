@@ -1,16 +1,18 @@
-### Hi there 👋
+#  Hola, Soy Álvaro Alonso 
 
-<!--
-**aabrazo/aabrazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Información de Contacto 📧
 
-Here are some ideas to get you started:
+* Email: dev.aabrazo78@gmail.com
+* GitHUb: [github.com/aabrazo](github.com/aabrazo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resumen 📄
+Soy Técnico Superior en Administración de Sistemas Informáticos en Red, pero con mucho interés en en la programación. Actualmente me estoy formando como Fullstack Developer para trabajar en esta rama de la informática que tanto me atrae.
+
+## Formación 🎓
+* Ingeniero en Edificación.
+* Técnico Superior en Administración de Sistemas Informáticos en Red
+
+## Conocimientos 🛠
+*  Lenguajes de programación: JavaScript, HTML y CSS.
+*  Bases de datos: MySQL.
+*  Control de versiones: Git.
